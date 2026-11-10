@@ -2,7 +2,7 @@
 Analysis codes for single-cell RNA sequencing and immunological profiling
 
 
-# 1. Human data analysis with R
+# 1. Human Data Analysis Using R
 
 ## Data availability
 

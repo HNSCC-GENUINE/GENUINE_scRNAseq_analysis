@@ -27,7 +27,7 @@ library(vegan)           # v2.7-2
 library(patchwork)       # v1.3.2
 
 # Define project path ------------------------------------------------------------------------------------------------------------------------------
-proj_dir <- "/home/yeju/1.YMC_HNC/HNSC_paper/1.public_relaease/0.R_public"   
+proj_dir <- "./"   
 data_dir <- file.path(proj_dir, "0.data")
 ref_dir  <- file.path(proj_dir, "2.reference")
 

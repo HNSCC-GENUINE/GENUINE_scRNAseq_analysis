@@ -7,7 +7,7 @@ Analysis codes for single-cell RNA sequencing and immunological profiling
 ## Data availability
 
 The processed data objects (`0.data/`) are not included in this repository.
-During peer review they are available to reviewers via GSE353363 (private reviewer token needed)
+During peer review, raw data are accessible via GSE353363 (private reviewer token required, given in manuscript), and processed data will be provided upon reviewer request. 
 
 
 ## Data files 
